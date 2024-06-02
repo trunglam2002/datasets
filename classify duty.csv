@@ -118,3 +118,5 @@ Text,Intent
 """Reboot the router.""",control_computer
 """Open iTunes.""",manage_applications
 """Search for health tips.""",search_information
+"""On computer.""",control_computer
+"""Off computer.""",control_computer
