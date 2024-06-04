@@ -118,8 +118,8 @@ Text,Intent
 """Reboot the router.""",control_computer
 """Open iTunes.""",manage_applications
 """Search for health tips.""",search_information
-"""On computer.""",control_computer""",search_information
-"""Off computer.""",control_computer""",search_information
+"""On computer.""",control_computer"""
+"""Off computer.""",control_computer"""
 """What is your favorite book and why?""",search_information
 """If you could travel anywhere in the world right now, where would you go?""",search_information
 """What is your favorite way to spend a weekend?""",search_information
