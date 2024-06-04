@@ -118,15 +118,15 @@ Text,Intent
 """Reboot the router.""",control_computer
 """Open iTunes.""",manage_applications
 """Search for health tips.""",search_information
-"""On computer.""",control_computer"""
-"""Off computer.""",control_computer"""
-"""What is your favorite book and why?""",search_information
-"""If you could travel anywhere in the world right now, where would you go?""",search_information
-"""What is your favorite way to spend a weekend?""",search_information
-"""If you could have dinner with any historical figure, who would it be?""",search_information
-"""What hobby would you like to take up if you had more free time?""",search_information
-"""Do you prefer the mountains or the beach? Why?""",search_information
-"""What is your favorite movie or TV show?""",search_information
-"""If you could instantly become an expert in any field, what would it be?""",search_information
-"""What is one of the most memorable experiences you've ever had?""",search_information
-"""Do you have a favorite quote or saying? What is it?""",search_information
+"""On computer.""",control_computer
+"""Off computer.""",control_computer
+"""What is your favorite book and why""",search_information
+"""If you could travel anywhere in the world right now, where would you go""",search_information
+"""What is your favorite way to spend a weekend""",search_information
+"""If you could have dinner with any historical figure, who would it be""",search_information
+"""What hobby would you like to take up if you had more free time""",search_information
+"""Do you prefer the mountains or the beach? Why""",search_information
+"""What is your favorite movie or TV show""",search_information
+"""If you could instantly become an expert in any field, what would it be""",search_information
+"""What is one of the most memorable experiences you've ever had""",search_information
+"""Do you have a favorite quote or saying? What is it""",search_information
