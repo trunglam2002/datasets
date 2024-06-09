@@ -140,4 +140,3 @@ Text,Intent
 """Open File Explorer and navigate to the Downloads folder.""", open_app_and_do
 """Start VLC Media Player and play the movie 'Inception'.""", open_app_and_do
 """Open Discord and join the server named 'Gaming Community'.""", open_app_and_do
-"""Launch PowerPoint and open the presentation titled 'Marketing Strategy'.""", open_app_and_do
