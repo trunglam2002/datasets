@@ -1,5 +1,5 @@
 Text,Intent
-""Turn off the computer."",control_computer
+Turn off the computer,control_computer
 """Restart the computer.""",control_computer
 """Open Google Chrome.""",manage_applications
 """Close Notepad.""",manage_applications
