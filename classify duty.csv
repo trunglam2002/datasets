@@ -150,8 +150,11 @@ Text,Intent
 "play Happier",play_music
 "stop music",stop_music
 "stop music",stop_music
+"stop music",stop_music
 "stop a music",stop_music
 "stop a music",stop_music
+"stop a music",stop_music
+"stop the music",stop_music
 "stop the music",stop_music
 "stop the music",stop_music
 "stop music",stop_music
