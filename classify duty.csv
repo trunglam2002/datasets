@@ -148,13 +148,13 @@ Text,Intent
 "play Old Town Road",play_music
 "play Thank U Next",play_music
 "play Happier",play_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
-"stop music", stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
+"stop music",stop_music
