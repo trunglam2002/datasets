@@ -190,9 +190,9 @@ Text,Intent
 "Where is the closest coffee shop",search_information
 "How long will it take to drive to Los Angeles",search_information
 "Play some music",search_information
-"What’s the latest news",search_information,search_information
-"What's the score of the [team] game",search_information,search_information
-"Can you play my favorite podcast",search_information,search_information
+"What’s the latest news",search_information
+"What's the score of the [team] game",search_information
+"Can you play my favorite podcast",search_information
 "Who is the President of the United States",search_information
 "What is the capital of France",search_information
 "How old is Taylor Swift",search_information
