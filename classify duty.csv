@@ -204,5 +204,11 @@ Text,Intent
 "Do you believe in aliens",search_information
 "Sing a song for me",search_information
 "continue music",play_music
+"continue music",play_music
+"continue music",play_music
 "continue the music",play_music
+"continue the music",play_music
+"continue the music",play_music
+"continue a music",play_music
+"continue a music",play_music
 "continue a music",play_music
